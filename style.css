@@ -39,9 +39,9 @@ body {
     margin-top: -10px;
     width: 85%;
     max-width: 230px;
-    height: 100px;
-    object-fit: contain;
+    height: auto;
     border-radius: 20px;
+
 }
 
 h1 {
